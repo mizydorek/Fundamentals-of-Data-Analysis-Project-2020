@@ -20,7 +20,7 @@ The repository contains:
 * `requirements.txt` — contains list of packages need to run the notebook
 * `.gitignore` — contains list of files that have to be ignore
 * `assessment.pdf` — contains project overview and requirements
-* `powerproduction.csv` — Heart Failure dataset
+* `powerproduction.csv` — Power production dataset
 
 #### Required software
 
@@ -52,7 +52,7 @@ The whole repository will be cloned down onto current working directory.
 
 #### How to run the jupyter notebook
 
-From there run `jupyter notebook` command on the command line/terminal. This will open Jupyter in the browser. The notebook containing solution that is called `numpy.random.ipynb` can be opened by clicking on it.
+From there run `jupyter notebook` command on the command line/terminal. This will open Jupyter in the browser. The notebook containing solution that is called `project.ipynb` can be opened by clicking on it.
 Once opened, select `Restart and Run All` from Kernel sub-menu to run the jupyter notebook.
 
 #### Viewing the Notebook 
